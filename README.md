@@ -1,5 +1,7 @@
 # Global Air Pollution Levels Analysis
 
+![Air Pollution Map](average_aqi_by_country.png)
+
 This repository contains a Jupyter Notebook that analyzes air pollution levels across various cities and countries using the [World Air Quality Index by City and Coordinates](https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates) dataset from Kaggle. The project explores air quality insights and visualizes average air pollution levels by country on a world map.
 
 ## Project Overview
